@@ -1,0 +1,3 @@
+# map from server username (left) to target, e.g. slack, username (right)
+---
+bob: bobby

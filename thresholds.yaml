@@ -1,0 +1,12 @@
+# The following are thresholds per interval per user.
+---
+# total cpu percent
+cpu: 1000 # 10 CPUs all running at 100%
+# total memory percent
+memory: 20 # 20% of 1 TB is 200 GB
+# total number of file descriptors
+fds: 10000
+# total number of read I/O bytes
+io_read_bytes: 100000000000 # 100 GB
+# total number of written I/O bytes
+io_write_bytes: 100000000000 # 10 GB
